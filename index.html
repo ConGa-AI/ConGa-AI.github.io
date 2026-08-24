@@ -1,19 +1,33 @@
 <!doctype html>
-<html lang="zh-Hant">
+<html lang="zh-Hant" data-theme="dark">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="AI 教學與企業 AI 導入顧問團隊，協助組織建立可落地的 AI 能力。"
+      content="ConGaAI 建置地端推論基礎設施：Basic 工作站、Pro DGX Spark、Ultra 機櫃群集；AI Forge 隨硬體提供。"
     />
-    <meta property="og:title" content="ConGa.AI" />
+    <meta property="og:title" content="ConGaAI · 地端推論基礎設施" />
     <meta
       property="og:description"
-      content="現代 AI 教學與企業導入顧問，從課程、工作坊到落地策略。"
+      content="依工作負載選 GPU。權重與資料留在現場。Basic / Pro（DGX Spark）/ Ultra。"
     />
     <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://congaai.github.io/" />
+    <meta name="theme-color" content="#070a12" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://congaai.github.io/" />
     <base href="/" />
+    <script>
+      (function () {
+        try {
+          var theme = localStorage.getItem('site-theme');
+          document.documentElement.dataset.theme = theme === 'light' ? 'light' : 'dark';
+        } catch (error) {
+          document.documentElement.dataset.theme = 'dark';
+        }
+      })();
+    </script>
     <script>
       (function () {
         try {
@@ -34,15 +48,20 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Noto+Sans+TC:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+JP:wght@400;500;700&family=Noto+Sans+SC:wght@400;500;700&family=Noto+Sans+TC:wght@400;500;700&family=Space+Grotesk:wght@500;600;700&display=swap"
       rel="stylesheet"
     />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <title>ConGa.AI</title>
-    <script type="module" crossorigin src="/assets/index-CZssiCSm.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-aY_K8SBV.css">
+    <title>ConGaAI · 地端推論基礎設施</title>
+    <script type="module" crossorigin src="/assets/index-1mhztb6D.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-D2r01Po9.css">
+      <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' data:; connect-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; object-src 'none';">
   </head>
   <body>
+    <noscript>
+      ConGaAI 需要 JavaScript 才能顯示產品與文件。請在瀏覽器啟用後重新整理。 /
+      This site needs JavaScript. Enable it and reload.
+    </noscript>
     <div id="root"></div>
   </body>
 </html>
