@@ -1,6 +1,6 @@
 # Agents
 
-公開說明：[GitHub · Agents](https://github.com/ConGaAI/AI-Forge/blob/main/docs/zh-TW/agents.md)
+公開說明：[GitHub · Agents](https://github.com/ConGa-AI/AI-Forge/blob/main/docs/zh-TW/agents.md)
 
 ![Agents](/assets/ai-forge/agents.png)
 
@@ -10,14 +10,18 @@
 
 ## 選擇助手
 
+卡片順序與畫面上一致：
+
 | 助手 | 說明 |
 |---|---|
 | OpenCode | 泛用程式助手，適合多數專案 |
-| Codex | 以寫程式、改程式為主 |
-| Grok Build | 另一種寫程式助手 |
 | Claude Code | 以對話方式改專案 |
+| Codex | 以寫程式、改程式為主 |
+| Grok Build | 另一種寫程式助手，走官方安裝方式 |
+| Hermes Agent | 終端裡的自主型助手，適合較長的工作 |
+| Pi | 精簡的程式助手，在專案資料夾裡改檔 |
 
-選中後，若顯示「未安裝」，請先安裝再啟動。優先用畫面上的**一鍵安裝**。
+選中後，若顯示「未安裝」，請先安裝再啟動。優先用畫面上的 **一鍵安裝**。已安裝的卡片右上垃圾桶是 **一鍵移除**。
 
 ## 安裝助手
 
@@ -27,6 +31,10 @@
 4. 裝好後按 **我已安裝，重新偵測**。
 
 若提示找不到 Node.js，請先在這台電腦安裝 Node.js 22 或更新版本，再開一次 AI Forge 後重試。部分助手安裝完成後需要先關掉 AI Forge 再打開。
+
+## 一鍵移除
+
+確認後會刪除安裝時下載的程式，以及本應用為這個助手寫入的設定。不會刪專案、連線設定、SSH 金鑰或其他助手。
 
 ## 最近專案
 

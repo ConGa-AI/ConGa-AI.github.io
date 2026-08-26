@@ -1,10 +1,10 @@
 # Connection
 
-Public guide: [GitHub · Connection](https://github.com/ConGaAI/AI-Forge/blob/main/docs/en/connection.md)
+Public guide: [GitHub · Connection](https://github.com/ConGa-AI/AI-Forge/blob/main/docs/en/connection.md)
 
 ![Connection](/assets/ai-forge/connection.png)
 
-Three parts: **identity → connect → key**. The step row on the page shows which parts are done. Finish them in order. Connection and authorization happen on this screen.
+Three parts: **Identity → Connect → Key**. The step row on the page shows which parts are done. Finish them in order. Connection and authorization happen on this screen.
 
 ## Username
 
@@ -31,7 +31,7 @@ Enter the name your admin assigned, then **Save**. That is this computer’s ide
 
 ## Service key
 
-You can verify only after connect succeeds. Paste the key, then **Save and verify**. The page shows whether conversation and document understanding work, and the vector size used on import (you do not type that).
+You can verify only after connect succeeds. Paste the key, then **Save & verify**. The page shows whether **Answering** and **Vectorizing** work, and **Vector width** used on import (you do not type that).
 
 Paste it only here. The window passes it into assistants it launches.
 

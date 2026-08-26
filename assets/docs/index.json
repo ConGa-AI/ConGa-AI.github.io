@@ -105,6 +105,21 @@
     }
   },
   {
+    "slug": "AI-Forge/MCP",
+    "titles": {
+      "en": "MCP",
+      "zh": "MCP"
+    },
+    "locales": {
+      "en": {
+        "markdownUrl": "./assets/docs/AI-Forge/MCP.en.md"
+      },
+      "zh": {
+        "markdownUrl": "./assets/docs/AI-Forge/MCP.zh.md"
+      }
+    }
+  },
+  {
     "slug": "AI-Forge/Overview",
     "titles": {
       "en": "AI Forge user guide",
