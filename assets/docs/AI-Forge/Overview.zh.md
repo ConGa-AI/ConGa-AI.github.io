@@ -4,7 +4,7 @@
 [GitHub · 繁中使用說明](https://github.com/ConGa-AI/AI-Forge/blob/main/docs/zh-TW/README.md)
 
 下載：  
-[最新發行頁](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest)
+[最新發行頁](https://github.com/ConGa-AI/AI-Forge/releases/latest)
 
 ![系統狀態](/assets/ai-forge/status.png)
 
