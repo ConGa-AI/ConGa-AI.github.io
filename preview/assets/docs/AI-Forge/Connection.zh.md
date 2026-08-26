@@ -1,6 +1,6 @@
 # 連線設定
 
-公開說明：[GitHub · 連線設定](https://github.com/ConGaAI/AI-Forge/blob/main/docs/zh-TW/connection.md)
+公開說明：[GitHub · 連線設定](https://github.com/ConGa-AI/AI-Forge/blob/main/docs/zh-TW/connection.md)
 
 ![連線設定](/assets/ai-forge/connection.png)
 
@@ -35,4 +35,4 @@
 
 只貼在這裡，不要貼進各個助手的設定檔——視窗啟動助手時會自動帶入。
 
-已存過金鑰時，可按 **再次驗證**。
+已存過金鑰時，可按 **重新驗證**。

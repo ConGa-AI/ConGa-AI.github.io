@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /preview/
 
-Sitemap: https://congaai.github.io/sitemap.xml
+Sitemap: https://conga-ai.github.io/sitemap.xml

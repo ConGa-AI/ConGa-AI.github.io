@@ -1,14 +1,14 @@
 # 資料設定
 
-公開說明：[GitHub · 資料設定](https://github.com/ConGaAI/AI-Forge/blob/main/docs/zh-TW/data.md)
+公開說明：[GitHub · 資料設定](https://github.com/ConGa-AI/AI-Forge/blob/main/docs/zh-TW/data.md)
 
 ![資料設定](/assets/ai-forge/data.png)
 
-這個畫面管兩件事：這台電腦上的**本機資料庫**，以及這台電腦**讀得懂哪些檔案**。
+這個畫面管兩件事：這台電腦上的**向量資料庫**，以及這台電腦**讀得懂哪些檔案**。
 
 名詞見 [使用說明 · 名詞](/docs/AI-Forge/Overview#名詞)。
 
-## 本機資料庫
+## 向量資料庫
 
 把文件變成可搜尋的私人資料，而且只存在這台電腦。
 
@@ -22,15 +22,17 @@
 
 略過安裝時，助手仍可啟動，但不能匯入文件。
 
+就緒後卡片右側的垃圾桶是 **一鍵移除**。確認後會刪掉安裝檔，以及這台電腦上的資料集，無法復原。
+
 ## 資料格式模組
 
 只打開你真的會匯入的格式即可。內建「文字與 Markdown」不能關閉。
 
-| 模組 | 適合什麼檔 |
+| 模組 | 畫面列出的副檔名 |
 |---|---|
-| 文字與 Markdown | `.txt`、`.md` 等 |
-| 程式碼與設定檔 | 常見原始碼與設定 |
-| 表格資料 | `.csv` 等 |
+| 文字與 Markdown | `.txt`、`.md`、`.markdown`、`.rst`、`.log` |
+| 程式碼與設定檔 | `.go`、`.py`、`.js`、`.ts` 等常見原始碼與設定 |
+| 表格資料 | `.csv`、`.tsv` |
 | PDF 文件 | `.pdf` |
-| Office 文件 | Word／簡報等 |
-| 電路板圖檔 | 相關工程圖檔 |
+| Office 文件 | `.docx`、`.pptx`、`.xlsx` |
+| 電路板圖檔 | `.gbr`、`.gtl` 等層檔 |

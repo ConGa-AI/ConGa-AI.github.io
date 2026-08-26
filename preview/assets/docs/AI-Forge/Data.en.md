@@ -1,36 +1,38 @@
 # Data setup
 
-Public guide: [GitHub · Data setup](https://github.com/ConGaAI/AI-Forge/blob/main/docs/en/data.md)
+Public guide: [GitHub · Data setup](https://github.com/ConGa-AI/AI-Forge/blob/main/docs/en/data.md)
 
 ![Data setup](/assets/ai-forge/data.png)
 
-This screen covers two things: the **local store** on this computer, and **which file types** it can read.
+This screen covers two things: the **Vector database** on this computer, and **which file types** it can read.
 
 Terms: [Overview · Terms](/docs/AI-Forge/Overview#terms).
 
-## Local store
+## Vector database
 
 Turns files into searchable private data that stays on this computer.
 
 | Status | What you can do |
 |---|---|
-| Not installed | Click **Install and start** |
+| Not installed | Click **Install & start** |
 | Installing / starting | Wait |
 | Ready | Create datasets on [Library](/docs/AI-Forge/Library) |
-| Stopped | Click Install and start again |
+| Stopped | Click Install & start again |
 | Failed | Retry; if it still fails, quit the app and try again |
 
 If you skip install, assistants still launch, but you cannot import files.
 
-## File-type modules
+The trash control is **Remove**. The confirmation says the install **and every dataset on this computer** will be deleted.
 
-Turn on only the types you will import. Built-in text and Markdown cannot be turned off.
+## Format modules
 
-| Module | Typical files |
+Turn on only the types you will import. Built-in **Text & Markdown** cannot be turned off (**Built in**).
+
+| Module | Extensions shown |
 |---|---|
-| Text and Markdown | `.txt`, `.md`, … |
-| Code and config | Common source and config |
-| Tables | `.csv`, … |
-| PDF | `.pdf` |
-| Office | Word / slides, … |
-| Board drawings | Related engineering drawings |
+| Text & Markdown | `.txt`, `.md`, `.markdown`, `.rst`, `.log` |
+| Code & config | Common source and config |
+| Tables | `.csv`, `.tsv` |
+| PDF documents | `.pdf` |
+| Office documents | `.docx`, `.pptx`, `.xlsx` |
+| PCB layer files | `.gbr`, `.gtl`, … |

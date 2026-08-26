@@ -1,8 +1,8 @@
 # 安裝與下載
 
-公開說明：[GitHub · 安裝與下載](https://github.com/ConGaAI/AI-Forge/blob/main/docs/zh-TW/install.md)
+公開說明：[GitHub · 安裝與下載](https://github.com/ConGa-AI/AI-Forge/blob/main/docs/zh-TW/install.md)
 
-請到 [最新發行頁](https://github.com/ConGaAI/AI-Forge-SRC/releases/latest) 下載對應你電腦的檔案。
+請到 [最新發行頁](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest) 下載對應你電腦的檔案。
 
 | 你的電腦 | 下載這個檔 |
 |---|---|
@@ -33,8 +33,12 @@
 
 ## 開啟之後
 
-視窗上方可以切換深色／淺色，以及中文／英文。這個選擇會記住，下次開啟仍有效。
+視窗上方可以切換深色／淺色，以及中文／英文。這個選擇會記住，下次開啟仍有效。深色是漆黑底加上金色邊線與說明文字；淺色維持淺灰。
 
-`Ctrl+K`（Mac 為 `⌘K`）可打開搜尋，用來跳頁或連線、重新檢查。數字鍵 `1`–`5` 可切換左側五個畫面。
+`Ctrl+K`（Mac 為 `⌘K`）可打開搜尋，用來跳頁或連線、重新檢查、切換外觀與語言。數字鍵 `1`–`6` 可切換左側六個畫面：系統狀態、連線設定、Agents、MCP、資料設定、資料管理。
+
+![搜尋](/assets/ai-forge/search.png)
+
+畫面上的搜尋提示在部分電腦會顯示成 `⌘K`，Windows 與 Linux 請用 `Ctrl+K`。
 
 **下一步：** [第一次使用](/docs/AI-Forge/FirstRun)

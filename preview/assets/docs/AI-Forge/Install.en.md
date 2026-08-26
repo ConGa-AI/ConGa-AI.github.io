@@ -1,8 +1,8 @@
 # Install and download
 
-Public guide: [GitHub · Install](https://github.com/ConGaAI/AI-Forge/blob/main/docs/en/install.md)
+Public guide: [GitHub · Install](https://github.com/ConGa-AI/AI-Forge/blob/main/docs/en/install.md)
 
-Download from the [latest release](https://github.com/ConGaAI/AI-Forge-SRC/releases/latest).
+Download from the [latest release](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest).
 
 | Computer | File |
 |---|---|
@@ -33,8 +33,12 @@ Each release also has a `.sha256` checksum file. For daily use, the main program
 
 ## After it opens
 
-The top bar switches dark / light and Chinese / English. The choice is remembered.
+The top bar switches dark / light and Chinese / English. The choice is remembered. Dark theme is lacquer black with gilt borders and captions; light theme stays the original pale grey.
 
-`Ctrl+K` (Mac: `⌘K`) opens search for pages and actions. Keys `1`–`5` switch the five sidebar screens.
+`Ctrl+K` (Mac: `⌘K`) opens search for pages and actions. Keys `1`–`6` switch the six sidebar screens: Status, Connection, Agents, MCP, Data setup, Data library.
+
+![Search](/assets/ai-forge/search.png)
+
+The search field may show `⌘K` even on Windows and Linux; use `Ctrl+K` there.
 
 **Next:** [First-time setup](/docs/AI-Forge/FirstRun)
