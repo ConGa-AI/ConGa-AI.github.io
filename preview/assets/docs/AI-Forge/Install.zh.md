@@ -2,7 +2,7 @@
 
 公開說明：[GitHub · 安裝與下載](https://github.com/ConGa-AI/AI-Forge/blob/main/docs/zh-TW/install.md)
 
-請到 [最新發行頁](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest) 下載對應你電腦的檔案。
+請到 [最新發行頁](https://github.com/ConGa-AI/AI-Forge/releases/latest) 下載對應你電腦的檔案。
 
 | 你的電腦 | 下載這個檔 |
 |---|---|

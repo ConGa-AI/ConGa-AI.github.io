@@ -4,7 +4,7 @@ The same product guide is also on GitHub:
 [GitHub · English guide](https://github.com/ConGa-AI/AI-Forge/blob/main/docs/en/README.md)
 
 Download:  
-[Latest release](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest)
+[Latest release](https://github.com/ConGa-AI/AI-Forge/releases/latest)
 
 ![Status](/assets/ai-forge/status.png)
 

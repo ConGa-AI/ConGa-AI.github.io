@@ -2,7 +2,7 @@
 
 Public guide: [GitHub · Install](https://github.com/ConGa-AI/AI-Forge/blob/main/docs/en/install.md)
 
-Download from the [latest release](https://github.com/ConGa-AI/AI-Forge-SRC/releases/latest).
+Download from the [latest release](https://github.com/ConGa-AI/AI-Forge/releases/latest).
 
 | Computer | File |
 |---|---|
