@@ -7,7 +7,9 @@ ConGaAI 依工作負載與模型規模選 GPU，組成 Basic 工作站、Pro DGX
 合作單位：國立中央大學。
 
 - 網站：https://conga-ai.github.io/
-- 聯絡：mailto:ConGaAI168@gmail.com
+- 聯絡：https://conga-ai.github.io/contact
+- Email：mailto:ConGaAI168@gmail.com
+- GitHub：https://github.com/ConGa-AI
 - AI Forge 下載：https://github.com/ConGa-AI/AI-Forge/releases/latest
 
 ## 產品
@@ -30,8 +32,3 @@ ConGaAI 依工作負載與模型規模選 GPU，組成 Basic 工作站、Pro DGX
 - [資料設定](https://conga-ai.github.io/docs/AI-Forge/Data)
 - [系統狀態](https://conga-ai.github.io/docs/AI-Forge/Status)
 - [常見問題](https://conga-ai.github.io/docs/AI-Forge/FAQ)
-
-## Optional
-
-- [聯絡 Gary](https://conga-ai.github.io/contact)：說明同時使用人數、模型規模與機房條件。
-- [GitHub 組織](https://github.com/ConGa-AI)
