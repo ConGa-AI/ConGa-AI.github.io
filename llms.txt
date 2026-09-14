@@ -1,0 +1,37 @@
+# ConGaAI
+
+> ConGaAI 為企業建置只服務自己的地端 GPU 推論基礎設施。權重、文件與對話留在指定現場；桌上程式 AI Forge 隨硬體提供。
+
+ConGaAI 依工作負載與模型規模選 GPU，組成 Basic 工作站、Pro DGX Spark 或 Ultra 機櫃群集。推論在你指定的機房執行，不與外部租戶共用容量。座位端用普通 PC 啟動助手。
+
+合作單位：國立中央大學。
+
+- 網站：https://conga-ai.github.io/
+- 聯絡：mailto:ConGaAI168@gmail.com
+- AI Forge 下載：https://github.com/ConGa-AI/AI-Forge/releases/latest
+
+## 產品
+
+- [地端 GPU 基礎設施](https://conga-ai.github.io/products/cluster)：Basic 工作站、Pro DGX Spark、Ultra 機櫃群集。推論留在指定機房。
+- [AI Forge](https://conga-ai.github.io/products/ai-forge)：購機附贈的桌上執行環境。連線、授權與啟動助手都在視窗完成。
+- [選型與現場建置](https://conga-ai.github.io/products/consulting)：依使用人數、模型規模、電力與空間，對到可上線的組態。
+- [產品總覽](https://conga-ai.github.io/products)：硬體、執行環境與導入由同一窗口負責。
+
+## 文件
+
+- [文件中心](https://conga-ai.github.io/docs)
+- [AI Forge 使用說明](https://conga-ai.github.io/docs/AI-Forge/Overview)
+- [安裝與下載](https://conga-ai.github.io/docs/AI-Forge/Install)
+- [第一次使用](https://conga-ai.github.io/docs/AI-Forge/FirstRun)
+- [連線設定](https://conga-ai.github.io/docs/AI-Forge/Connection)
+- [Agents](https://conga-ai.github.io/docs/AI-Forge/Agents)
+- [MCP](https://conga-ai.github.io/docs/AI-Forge/MCP)
+- [資料管理](https://conga-ai.github.io/docs/AI-Forge/Library)
+- [資料設定](https://conga-ai.github.io/docs/AI-Forge/Data)
+- [系統狀態](https://conga-ai.github.io/docs/AI-Forge/Status)
+- [常見問題](https://conga-ai.github.io/docs/AI-Forge/FAQ)
+
+## Optional
+
+- [聯絡 Gary](https://conga-ai.github.io/contact)：說明同時使用人數、模型規模與機房條件。
+- [GitHub 組織](https://github.com/ConGa-AI)
