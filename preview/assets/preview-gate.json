@@ -1,6 +1,6 @@
 {
   "ciphertextUrl": "./assets/preview-gate.enc",
-  "salt": "6p8lXMrVXfk6kqWoIVXovg==",
-  "iv": "GpWGdJi0PxzFulES",
+  "salt": "IV0KkuUtANe4lKaFmPMadA==",
+  "iv": "wEE9h8cesmDUpYnJ",
   "iterations": 100000
 }
